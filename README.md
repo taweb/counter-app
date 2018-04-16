@@ -9,3 +9,7 @@ Each history record states the time when the operation occurred, the type of ope
 To view the app, visit the following link: https://expo.io/@tatherton/counter-app
 
 You will need to have the Expo client installed to view the app. Documentation for the client can be found here: https://expo.io/tools#client
+
+Screenshot of the app is below:
+
+<img src="screenshots/counterimg.png" alt="counter app image" width="340">
